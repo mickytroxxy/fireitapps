@@ -1,0 +1,7 @@
+{
+  "name": "FireItApps - Ignite Your Venue",
+  "description": "FireItApps develops premium gaming and music solutions for pubs, clubs, and events, featuring the hit app SpiceShot.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
